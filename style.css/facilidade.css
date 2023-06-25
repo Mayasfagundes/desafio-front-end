@@ -23,6 +23,7 @@
     padding: 2rem;
     font-size: 32px;
     font-weight: 500;
+    background-color: var(--preto);
 }
 
 .facilidades__titulo{
