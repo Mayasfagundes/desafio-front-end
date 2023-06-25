@@ -1,0 +1,8 @@
+.rodapé{
+    background-color: var(--preto);
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--branco);
+    text-align: center;
+    padding: 15px;
+}

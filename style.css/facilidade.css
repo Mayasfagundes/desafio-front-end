@@ -1,0 +1,40 @@
+.facilidades__container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-between;
+    background-color: var(--preto);
+    grid-area: facilidades__titulo-principal;
+
+}
+
+
+/*.facilidades__container{
+    justify-content: space-between;
+    text-align: center;
+    display: grid;
+        grid-template-rows: 50% 50%;
+
+    grid-gap: 10px;  Define um espaçamento de 10px entre as colunas */
+    
+    
+.facilidades__titulo-principal{
+    color: var(--branco);
+    text-align: center;
+    padding: 2rem;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.facilidades__titulo{
+    color: var(--verde);
+    text-align: center;
+    padding: 2rem;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+
+.facilidades__subtitulo{
+    color: var(--branco);
+    font-size: 13px;
+}
