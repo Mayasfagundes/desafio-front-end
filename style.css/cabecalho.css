@@ -1,0 +1,45 @@
+.cabecalho {
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+
+.container__cabecalho {
+    display: flex;
+    align-items: center;
+}
+
+
+.cabecalho__item{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.item__link{
+    text-decoration: none;
+    color: var(--branco);
+    padding: 2em;
+}
+
+#container__cabecalho{
+    display: flex;
+    font-size: 20px;
+text-align: center;
+}
+
+.cabecalho__pesquisa{
+    text-align: center;
+}
+
+.cabecalho__botão{
+    background-color: transparent;
+    border: 1px solid var(--branco);
+    color: var(--branco);
+    font-size: 16px;
+    padding: 0 1em;
+}
+
