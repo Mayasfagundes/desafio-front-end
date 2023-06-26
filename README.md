@@ -18,6 +18,11 @@ A empresa tem por objetivo se tornar referência no mercado, atraindo mais clien
 
 # COLOCAR IMAGEM 
 
+# 🖼️ Banner do VitrineDev
+<div align="center">
+<img src="#vitrinedev" alt="imagem banner do Vitrine Dev">
+
+
 #  Sobre o Challenge da Alura
 
 Esse é um desafio proposto por Alura maior escola de tecnologia do Brasil, onde recebemos um layout no figma completo e temos o desafio de fazer esse site por nossa conta em **4 semanas** como tempo proposto.
