@@ -16,105 +16,17 @@ A empresa tem por objetivo se tornar referência no mercado, atraindo mais clien
   
 </div>
 
-# 💪 Sobre o Challenge da Alura
+# COLOCAR IMAGEM 
+
+#  Sobre o Challenge da Alura
 
 Esse é um desafio proposto por Alura maior escola de tecnologia do Brasil, onde recebemos um layout no figma completo e temos o desafio de fazer esse site por nossa conta em **4 semanas** como tempo proposto.
 
 Com incentivo de usarmos a comunidade do Discord como apoio são esses nossos colegas do Desafio. *Mas é uma comundiade exclusiva para alunos por isso não posso deixar o link!*
 
-<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/discord.png" alt="banner do discord">
+
 
 Também temos nossos instrutores que estão nos desafiando e auxiliando durante esse período que organizam cursos e conteudos para cada semana tanto na plataforma da alura quanto no trello.
 
 <img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/desafiantes.png" alt="banner dos instrutores">
 
-Recebemos na plataforma do **Trello** um guia para semana com tarefas para serem feitas onde podemos visualizar melhor cada etapa desse Desafio e conferir nosso progresso! 
-
-<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/trello.png" alt="banner do trello instrutores">
-
-## Objetivo
-
-Ao final desse desafio teremos eses conteudos prontos:
-
-- Uma página inicial que contenha um buscador de produtos oferecidos pela empresa;
-- Um banner/carrossel que contenha informações sobre a coleção do momento;
-- Uma galeria com as categorias dos produtos disponíveis na loja;
-- Uma galeria com as informações dos produtos, como: imagem, nome do produto, descrição e link que leva até a página de “Saiba mais sobre o produto”.
-- Uma modal que contenha a imagem, o nome, a descrição, o preço, as variações do produto e a opção de adicionar na sacola;
-- Uma seção para divulgar as facilidades que a loja proporciona para realizar as compras;
-- Uma seção para cadastrar na newsletter e receber novidades;
-- Um rodapé com informação do site.
-
-# 🎨 Projeto no Figma
-Acesse esse projeto aqui [Projeto](https://www.figma.com/file/2TLgt8UjsWUViWlmpXu5Fz/Challenge-Front-end-%7C-Loja-Meteora?type=design&t=eSgWQyTIbkDXy2TQ-6)
-
-No desafio foi proposto dois temas para ser escolhidos, eu optei pelo temo Boreal.🌠
-<div align="center">
-<img src="https://github.com/DanielBarret0/challenge-alura-7-edicao/blob/main/assets/gif/figma.png" alt="projeto no Figma">
-</div>
-
-
-# :one: Primeira Semana | :construction:**Em progresso** <!-- **:white_check_mark: Feito** -->
-
-Esses são os meus objetivos da semana: 
-
-- :white_check_mark: Passo 1 | Cabeçalho 
-- :white_check_mark: Passo 2 | Cabecalho Responsividade
-- :white_check_mark: Passo 3 | Banner 
-- :white_check_mark: Passo 4 | Seção "Busque por categorias"
-- :white_check_mark: Passo 5 | Seção "Facilidades"
-- :white_check_mark: Passo 6 | Seção "Produtos"
-- :construction: Passo 7 | Seções "Responsividade"
-
-## Resultados da primeira semana:
-
-<div align="center">
-<img src="" alt="gif de resultados da primeira semana">
-</div>
-
-## Artigos de apoio:
-:up: [Receita do menu hamburguer](https://dev.to/ramoscarloseduardo/receita-de-menu-hamburguer-1ae0) <br>
-:up: [Imagens responsivas](https://www.alura.com.br/artigos/srcset-trabalhando-imagens-responsivas)
-
-# :two: Segunda Semana 
-
-Esses são os meus objetivos da semana: 
-
--
--
--
-
-# :three: Terceira Semana 
-
-Esses são os meus objetivos da semana: 
-
--
--
--
-
-
-# :four: Quarta Semana 
-
-Esses são os meus objetivos da semana: 
-
--
--
--
-
-# 🤯 Minha experiência
-
-## ⭐ Representação do projeto em diversas telas
-<div align="center">
-![Demonstração]()
-</div>
-
-# 🖼️ Banner do VitrineDev
-<div align="center">
-<img src="#vitrinedev" alt="imagem banner do Vitrine Dev">
-</div>
-
-
-# 🙋‍♂️ Autor
-
-
-https://desafio-front-end-pearl.vercel.app/
