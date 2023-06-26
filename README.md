@@ -20,7 +20,7 @@ A empresa tem por objetivo se tornar referência no mercado, atraindo mais clien
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
-<img src="#vitrinedev" alt="imagem banner do Vitrine Dev">
+<img src="#vitrinedev" alt="imagem banner do Vitrine Dev">#vitrinedev
 
 
 #  Sobre o Challenge da Alura
