@@ -6,24 +6,30 @@
     align-content: center;
     text-align:left;
     column-gap: 20px;
-    row-gap: 50px;
-    padding-left: 10vh;
-
-
+    row-gap: 30px;
+    padding: 2rem;
 }
 
-
+.produtos__grid{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
 
 .produtos__titulos-item {
     font-size: 16px;
     font-weight: 700;
     color: var(--cor-secundaria);
+    padding: 0.5rem 0;
 }
 
 .produtos__descrição{
-    font-size: 13px;
+    font-size: 15px;
     font-weight: 400;
     color: var(--cor-secundaria);
+    padding: 0.5rem 0;
+
 
 }
 
@@ -31,6 +37,8 @@
     font-size: 16px;
     font-weight: 700;
     color: var(--cor-secundaria);
+    padding: 0.5rem 0;
+
 }
 
 .produtos__botão{
@@ -40,5 +48,20 @@
     font-size: 16px;
     border: transparent;
     padding: 15px;
+    
+
 }
 
+
+
+@media screen and (max-width: 600px) {
+
+}
+
+
+@media screen and (max-width: 992px) {
+   
+
+    
+
+}
