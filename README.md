@@ -4,12 +4,12 @@ A Meteora é uma empresa do comércio eletrônico de roupas atemporais, casuais 
   
 A empresa tem por objetivo se tornar referência no mercado, atraindo mais clientes e impulsionando suas vendas, buscando alcançar um novo patamar e consolidando-se como uma empresa mais digital.
 
-| :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/Mayarasfagundes 
+| :placard: Vitrine.Dev |  [VitrineDEV](https://cursos.alura.com.br/vitrinedev/Mayarasfagundes)
 | -------------  | --- |
 | :sparkles: Nome        | **Meteora**
 | :label: Tecnologias |   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 | 🎇: Bibliotecas | [Bootstrap](https://getbootstrap.com/)
-| :rocket: URL         | [Projeto](https://desafio-front-end-pearl.vercel.app/)
+| :rocket: URL         | [Projeto]([https://desafio-front-end-pearl.vercel.app/](https://desafio-front-f2x1lcazd-mayasfagundes.vercel.app/)
 | :fire: Desafio     | [Conheça o Challenge Alura](https://www.alura.com.br/challenges/front-end-6?host=https://cursos.alura.com.br)
 | :laughing: Upgrades que fiz     | ****
 | :page_with_curl: Licença         | [<img src="https://img.shields.io/badge/LICENSE-MIT-green"/>](https://choosealicense.com/licenses/mit/) 
