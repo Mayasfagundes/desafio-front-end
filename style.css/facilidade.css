@@ -3,39 +3,38 @@
     grid-template-columns: auto auto auto;
     justify-content: space-between;
     background-color: var(--preto);
-    grid-area: facilidades__titulo-principal;
 
 }
 
-
-/*.facilidades__container{
-    justify-content: space-between;
-    text-align: center;
-    display: grid;
-        grid-template-rows: 50% 50%;
-
-    grid-gap: 10px;  Define um espaçamento de 10px entre as colunas */
-    
-    
+.facilidades__itens{
+    padding: 5rem;
+}
+   
 .facilidades__titulo-principal{
     color: var(--branco);
     text-align: center;
-    padding: 2rem;
+    padding: 2vh;
     font-size: 32px;
     font-weight: 500;
     background-color: var(--preto);
 }
 
-.facilidades__titulo{
-    color: var(--verde);
-    text-align: center;
-    padding: 2rem;
-    font-size: 16px;
-    font-weight: 500;
-    
+
+@media screen and (max-width: 600px) {
+
 }
 
-.facilidades__subtitulo{
-    color: var(--branco);
-    font-size: 13px;
+
+@media screen and (max-width: 992px) {
+    .facilidades__container{
+    display: block;
+    text-align: center;
+   
+    }
+
+    .facilidades__itens{
+        padding: 1rem;
+    }
+       
+
 }
