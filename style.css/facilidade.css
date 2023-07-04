@@ -7,7 +7,7 @@
 }
 
 .facilidades__itens{
-    padding: 5vh;
+    padding: 5rem;
 }
    
 .facilidades__titulo-principal{
@@ -27,11 +27,14 @@
 
 @media screen and (max-width: 992px) {
     .facilidades__container{
-    display: flex;
+    display: block;
     text-align: center;
-    justify-content: center;
-    gap: 1rem;
-    padding: 1rem 0;
+   
     }
+
+    .facilidades__itens{
+        padding: 1rem;
+    }
+       
 
 }
