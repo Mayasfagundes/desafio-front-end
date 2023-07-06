@@ -1,3 +1,5 @@
+/* DESKTOP */
+
 .cabecalho {
     background-color: var(--preto);
     display: flex;
@@ -42,89 +44,99 @@
     margin-right: 15px;
 }
 
-.cabeçalho__menu-hamburguer,
-.lista-menu,
-.cabeçalho__menu-hamburguer,
-.container__imagem,
-.container__botao:checked~.lista-menu,
-.container__rotulo,
-.container {
-display: none;
+
+
+/* MOBILE */
+
+@media screen and (max-width: 450px) {
+
+    .cabecalho__item,
+    .container__cabecalho-pesquisa{
+        display: none;
+    }
+
+.container__cabecalho-menu{
+    display: block;
 }
 
 
-@media screen and (max-width: 600px) {
-    .cabeçalho__menu-hamburguer {
-        width: 24px;
-        height: 24px;
-        background-image: url("../img/Icon\ Color.png");
-        background-repeat: no-repeat;
-        background-position: center;
+    .search-icon {
         display: inline-block;
-    }
-
-    .item__link,
-    .cabecalho__pesquisa,
-    .cabecalho__botão
-    {
+        width: 32px;
+        height: 32px;
+        background-image: url(../img/Icon\ Color.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        cursor: pointer;
+      }
+      button {
+        border: solid 3px tomato;
+        border-radius: .5rem;
+        font-weight: bold;
+        width: 32px;
+        height: 32px;
         display: none;
-    }
-
-    .lista-menu {
-        display: none;
-        position: absolute;
-        top: 100%;
-        width: 60vw;
-    }
-
-    .container__botao:checked~.lista-menu {
-        display: block;
-    }
-
-    .lista-menu__link {
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-        text-transform: uppercase;
-    }
-    
-    .container__botao {
-        display: none;
-    }
-    
-    .container__titulo {
-        display: none;
-    }
-    
-    .opções {
-        display: none;
-    }
-    
-    .container__texto{
-        display: none;
-    }
+        cursor: pointer;
+        background-image: url(https://github.com/RamosCarlosEduardo/Barbearia-Alura/blob/main/images/menu-burguer.png?raw=true);
+        background-repeat: no-repeat;
+        background-size: 80% 80%;
+        background-position: center;
+        
+      }
+      
+      
+      
+      nav.menu-active {
+        display: block
+      }
+      
+      ul {
+        display: inline-flex;
+        flex-direction: row;
+        align-items: stretch;
+        gap: 1rem;
+        border-radius: 5px;
+      }
+      
+      li {
+        list-style: none;
+        padding: .3rem 1rem;
+      }
+      
+      li:hover {
+        background: #0003;
+      }
+      
+      a {
+        text-decoration: none;
+        color: black;
+      }
+      
+      li:hover a {
+        text-decoration: underline;
+      }
+      
     
 
 }
 
+
+/* TABLET */
 
 @media screen and (max-width: 768px) {
     .item__link{
         text-decoration: none;
         color: var(--branco);
-        padding: 0.1rem;
+        padding: 0.3rem;
     }
 
     .cabecalho__pesquisa{
-        text-align: center;
-        padding: 0.5rem;
-    
+        width: 130px;
     }
 
     .cabecalho__botão{
 padding: 0.5rem;
 
-    }
-    
+    }   
 
 }
