@@ -69,6 +69,7 @@
         display: grid;
         grid-template-columns: auto;
         grid-template-rows: auto;
+        padding: 1rem;
 
 
     }
