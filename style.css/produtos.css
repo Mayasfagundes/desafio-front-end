@@ -77,5 +77,22 @@
 }
 
 @media screen and (max-width: 450px) {
+    .produtos{
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    }
+
+     .produtos__botão{
+        background-color: var(--roxo);
+        color: var(--branco);
+        font-weight: 500;
+        font-size: 16px;
+        border: none;
+        padding: 15px;
+        width: 35%;
+}
 }
 
