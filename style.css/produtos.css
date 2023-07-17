@@ -76,7 +76,7 @@
 
 }
 
-@media screen and (max-width: 450px  min-width: 320px) {
+@media screen and (min-width: 400px) {
     .produtos{
     display: grid;
     grid-template-columns: auto;
