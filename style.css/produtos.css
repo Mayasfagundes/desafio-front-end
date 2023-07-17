@@ -59,6 +59,17 @@
         grid-template-rows: auto;
 
     }
+
+    .produtos__botão{
+    background-color: var(--roxo);
+    color: var(--branco);
+    font-weight: 500;
+    font-size: 16px;
+    border: transparent;
+    padding: 15px;
+    
+
+}
      
 
 }
@@ -73,6 +84,17 @@
 
 
     }
+
+    .produtos__botão{
+    background-color: var(--roxo);
+    color: var(--branco);
+    font-weight: 500;
+    font-size: 16px;
+    border: transparent;
+    padding: 15px;
+    
+
+}
 
 
 }
